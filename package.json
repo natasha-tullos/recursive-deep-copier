@@ -1,0 +1,15 @@
+{
+  "name": "copier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Copier.js",
+  "scripts": {
+    "dev": "node Copier.js",
+    "test": "mocha"
+  },
+  "author": "Natasha Tullos",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
